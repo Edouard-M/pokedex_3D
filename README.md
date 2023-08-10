@@ -1,5 +1,5 @@
 # Pokedex 3D
-## Project using React + Vite
+## Project using React + Three.Js (using Vite Webpack)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
